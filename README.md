@@ -1,4 +1,4 @@
 # shrutifirst
 This is my first Git Repositary 
 <br>
-Author - Shruti 
+Author - Shruti Panchal  
